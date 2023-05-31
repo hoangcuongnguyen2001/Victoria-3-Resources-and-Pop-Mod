@@ -29,7 +29,11 @@ The focus in this mod is about the need of population (or "pops"), as well as re
 - Adding historical Australian party names.
 - Great Britain should start the game with Colonial Exploitation law (to simulate its African colonization), while Cape Colony starts the game with Colonial Resettlement and Homesteading laws (to simulate the migration of British settlers after 1815).
 - Reduce SoL penalties for China after Opium Wars and Cizye tax for Ottoman Empire, to prevent depopulation (this is still in progress, though).
-
-There are a lot more changes that I did not mention here, you could see it in my Reddit comments for this post: https://www.reddit.com/r/victoria3/comments/13vcl3y/my_new_mod_for_13_population_growth_and_resources/.
+- Modern Sewerage tech now grant +1 SoL for all social strata, simulate the effect of sanitization for people's health (based on The Great Rework mod).
+- Nationalism and Pan-Nationalism techs now add 25% and 50% Radicals from Discrimination (the amount might be buffed up in the future);
+- Adding homelands for Ashkenazi and Sephardic cultures (to simulate Pale of Settlement and prevent Jews from being assimilated in Europe and North Africa).
+Electrical Engine Pump is also added for all mines, as a stop gap between Condensed Engine Pump and Diesel Pump. The output for this type of pump is also boosted, and Electrical Engine Pump would be available as soon as you have Electrical Generation researched.
+- Chance for turmoil to trigger nationalist revolts is also increased, so be careful if you conquer a new province directly!
+- The amount of arts produced by each production method for Art Academies is also increased, so you would not see a lot of Art Academies built like in base game.
 
 I hope that if you find my ideas fun, you could give me potential feedbacks!
