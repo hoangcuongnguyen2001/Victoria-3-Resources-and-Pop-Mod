@@ -30,4 +30,6 @@ The focus in this mod is about the need of population (or "pops"), as well as re
 - Great Britain should start the game with Colonial Exploitation law (to simulate its African colonization), while Cape Colony starts the game with Colonial Resettlement and Homesteading laws (to simulate the migration of British settlers after 1815).
 - Reduce SoL penalties for China after Opium Wars and Cizye tax for Ottoman Empire, to prevent depopulation (this is still in progress, though).
 
+There are a lot more changes that I did not mention here, you could see it in my Reddit comments for this post: https://www.reddit.com/r/victoria3/comments/13vcl3y/my_new_mod_for_13_population_growth_and_resources/.
+
 I hope that if you find my ideas fun, you could give me potential feedbacks!
